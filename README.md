@@ -1,0 +1,2 @@
+# stock-price-forecast
+This project is a stock price forecasting tool built using various time series models including LSTM, ARIMA, SARIMA, and Prophet. It uses live financial data from Yahoo Finance via the yfinance API and offers future predictions through an interactive Streamlit web interface. The app supports visual comparison of historical prices with future forecasts, allowing users to choose forecasting models and prediction periods.
